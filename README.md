@@ -24,7 +24,7 @@
  **Web Development:** HTML5, CSS3, JavaScript, Bootstrap, Ajax, jQuery, Wordpress, Node.js </br>
  **Tools Used:** Matlab, Unity Game Engine, Blender, Cisco Packet Tracer, VMware Workstation, Adobe Photoshop, Adobe Illustrator, Git Bash </br>
  **Language Proficiency:** Bangla, English, Arabic </br>
- **Other:** Git, Docker, Android App Development, Game Development, Linux, Figma, Elastic Search, Kibana </br>
+ **Other:** Git, WooCommerce, Elementor, Docker, Android App Development, Game Development, Linux, Figma, Elastic Search, Kibana </br>
 
  **Additional SKills:**    
  <ul>

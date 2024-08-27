@@ -20,7 +20,7 @@
 
  **Programming Language :** C, C++, Java, Python, Golang, JavaScript, PHP, C#, Prolog</br>
  **Database Management:** MySQL, PostgresDB, Microsoft SQL Server, Oracle, Firebase</br>
- **Framework:** Laravel, Vue.js, Django, Flask, Beego </br>
+ **Framework:** Laravel, React.js, Django, Flask, Beego </br>
  **Web Development:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Ajax, jQuery, Wordpress, Node.js </br>
  **Tools Used:** Matlab, Unity Game Engine, Blender, Cisco Packet Tracer, VMware Workstation, Adobe Photoshop, Adobe Illustrator, Git Bash </br>
  **Language Proficiency:** Bangla, English, Arabic </br>

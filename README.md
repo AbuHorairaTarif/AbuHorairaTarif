@@ -3,7 +3,7 @@
 "></p>
 
 <h1 align= "center" style="color:#06283D;">𝓐𝓫𝓾 𝓗𝓸𝓻𝓪𝓲𝓻𝓪 𝓣𝓪𝓻𝓲𝓯</h1>
-<h2 align= "center" style="color:#7B66FF;"> <strong>Software Engineer/Full Stack Developer</strong></h2>
+<h2 align= "center" style="color:#7B66FF;"> <strong>Mid Software Engineer/Full Stack Developer</strong></h2>
 <h3 align= "center"><em>𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖𝕕 𝕚𝕟 𝕀𝕋 𝕗𝕚𝕖𝕝𝕕 𝕞𝕠𝕣𝕖 𝕥𝕙𝕒𝕟 9 𝕪𝕖𝕒𝕣𝕤</em></h3>
 
 <span>![visitor](https://komarev.com/ghpvc/?username=AbuHorairaTarif&color=green)</span>
